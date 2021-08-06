@@ -1,0 +1,15 @@
+div{
+    font-size:30px;
+    color: rgba(241, 42, 92, 0.904);
+    width:450px;
+    height:60px;
+    padding-top: 15px;
+    text-align: center;
+    background-color: rgb(247, 227, 224);
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    margin-top:200px;
+    margin-left:510px;
+
+}
